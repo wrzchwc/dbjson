@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "FUT Champions",
+      "description": "Otwieranie paczek",
+      "id": 2
+    },
+    {
+      "title": "CS:GO ESL League",
+      "description": "fnatic vs virtus pro",
+      "userID": "115505790822205469579",
+      "id": 5
+    },
+    {
+      "title": "What does AWS stand for?",
+      "description": "Amazon Web Services.",
+      "userID": "115505790822205469579",
+      "id": 7
+    }
+  ]
+}
